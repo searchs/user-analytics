@@ -4,6 +4,12 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
+Languages:    Python, Scala, Bash
+
+Cloud Env: AWS [Lambda, SAM, Glue, Kinesis Data Stream]
+
+
+
 ### What is this repository for? ###
 
 * Quick summary
